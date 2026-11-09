@@ -34,7 +34,9 @@ Chapter 3 counts.
 | --- | --- | --- |
 | 1 | Sheets 1–2, log L1 | Level 1: The yardstick (`sanad-L1.zip`) |
 | 2 | Sheets 3–4, log L2 | Level 2: Rules, slots, and a clarifier (`sanad-L2.zip`) |
-| 3 | Sheet 5 (and its challenge page), log L3 | Level 3: Corpus counts and a typo-tolerant search |
+| 3 | Sheet 5 (and its challenge page), log L3 | Level 3: Corpus counts and a typo-tolerant search (`sanad-L3.zip`) |
+| 4 | Sheets 6–8, log L4; Lab 3, part C | Level 4: Units of text, and a first keyboard (`sanad-L4.zip`) |
+| 5 | Sheet 9; Lab 3, G1–G6 (G7 is a challenge) | No new level: finish level 4. Level 5 follows Chapter 6 |
 
 ## Getting started with Sanad
 
